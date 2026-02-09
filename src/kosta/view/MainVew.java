@@ -6,6 +6,8 @@ public class MainVew {
 		System.out.println("Git Test");
 		System.out.println("수정..");
 		System.err.println("야삐");
+		
+		System.out.println("메인에 수정함");
 	}
 
 }
