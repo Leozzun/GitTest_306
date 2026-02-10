@@ -8,6 +8,7 @@ public class OrderController {
 	public void orderCart() {
 		System.out.println("로컬 cart브랜치에서 추가함");
 	}
+	
 	public void remoteCart() {
 		System.out.println("로컬 main브랜치에서 추가함");
 	}
